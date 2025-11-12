@@ -1,13 +1,4 @@
-<!-- ⚡ VAIVIK SHAH | Full Stack Developer // Neon Futuristic GitHub README -->
 
-<div align="center">
-
-╭───────────────────────────────────────────────╮
-│ │
-│ 🪩 V A I V I K S H A H ⚡ │
-│ // F U L L S T A C K D E V │
-│ │
-╰───────────────────────────────────────────────╯
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+%26+EdTech+Builder;AI+Innovator;Lifelong+Learner;Building+Digital+Possibilities" alt="Typing SVG" />
 </p>
