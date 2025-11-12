@@ -1,107 +1,115 @@
 
+<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vaivik Shah</span></h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=2800&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;SaaS+%26+EdTech+Builder;AI+Innovator;Lifelong+Learner;Building+Digital+Possibilities" alt="Typing SVG" />
+  <b>Full Stack Developer • Builder of Digital Possibilities • Ahmedabad, India 🇮🇳</b><br/>
+  <i>"I don’t just write code — I build possibilities that inspire, impact, and innovate."</i>
 </p>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
 
 ---
 
-<div align="center">
+### 🚀 Let Me Introduce Myself
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
+I’m a passionate **Full Stack Developer** who loves transforming ideas into reality through **clean, scalable, and modern web applications**.  
+Over time, I’ve explored a wide range of technologies and found my passion in building products that **truly make an impact**.
 
-</div>
-
-### 👋 Hey, I’m **Vaivik Shah**
-
-I’m a self-taught **Full Stack Developer** from **Ahmedabad, India 🇮🇳**,  
-who loves crafting **clean, scalable, and meaningful** web experiences that *actually solve problems*.  
-
-🧠 Passionate about **SaaS, EdTech, AI, and E-commerce**,  
-I believe creativity + technology = *real impact*.
-
-> ✨ *“I don’t just write code — I build possibilities that inspire, impact, and innovate.”*
+💡 I believe great products are born at the intersection of **creativity, technology, and execution** —  
+and that’s exactly where I love to work.
 
 ---
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
-</div>
 
-### ⚙️ Tech Stack (Glowing Edition)
+### ⚙️ Tech Arsenal (Black Neon Stack)
 
-<div align="center">
-  
-| **Frontend** | **Backend** | **Database** | **Tools & Platforms** |
-|---------------|-------------|---------------|------------------------|
-| <img src="https://skillicons.dev/icons?i=react,next,tailwind,typescript,materialui&theme=dark" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,vercel&theme=dark" height="40"/> | <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb,firebase&theme=dark" height="40"/> | <img src="https://skillicons.dev/icons?i=git,postman,vscode,windows,figma,chrome&theme=dark" height="40"/> |
+| 🖥️ Frontend | ⚙️ Backend | 🧠 Database | 🧰 Tools |
+|--------------|-------------|--------------|----------|
+| <img src="https://skillicons.dev/icons?i=react,next,tailwind,materialui,typescript&theme=dark" height="40"/> | <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&theme=dark" height="40"/> | <img src="https://skillicons.dev/icons?i=supabase,mongodb,postgresql,firebase&theme=dark" height="40"/> | <img src="https://skillicons.dev/icons?i=git,postman,vercel,vscode,windows,chrome,figma&theme=dark" height="40"/> |
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
-</div>
-
-### 🧠 Developer Energy Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vaivikop&theme=neon-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=vaivikop&show_icons=true&theme=neon-dark&hide_border=true" width="49%" alt="Stats" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaivikop&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
+🧠 Also fluent in: **JavaScript**, **TypeScript**, and **real-world problem-solving.**
 
 ---
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
-</div>
 
-### 🎯 My Developer Mantra
-
-> ⚡ *“Stay curious, stay consistent — and keep building things that make you proud.”*  
-> 💡 *Every line of code should either solve, simplify, or inspire.*
+### 🧩 What I Love Building
+- 🧠 **AI-powered experiences** that redefine how people learn and work  
+- 🎓 **EdTech platforms** like *Skillora* and *Tayyari* that empower students  
+- 💍 **E-commerce systems** like *REVA* with seamless user journeys  
+- 🧰 **SaaS tools** that solve everyday pain points with elegance  
+- 🧪 Experimental projects — where creativity meets code
 
 ---
 
-### 🧩 Tools I Trust
-<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
 
-💻 **VS Code** • ☁️ **Firebase / Supabase** • 🚀 **Vercel** • 🧠 **Postman**  
-🎨 **Figma** • 🧾 **GitHub Actions** • ⚙️ **Chrome DevTools**
+### 💻 Current Status
 
-</div>
+- 🌱 Currently pursuing **Diploma in Electronics and Communication (GPA)**
+- 🚀 Freelancing & building full-stack products that *actually make a difference*
+- 🧩 Exploring **AI, automation, and digital innovation**
+- 🎮 Outside of code: **Event Management**, **Gaming**, and **Unique Business Ideas**
 
 ---
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
-</div>
 
-### 💬 Let’s Connect
+### 🛠️ My Toolkit
 
 <p align="center">
-  <a href="https://github.com/vaivikop"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/vaivikshah"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:vaivikshah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,nestjs,supabase,postgres,mongodb,tailwind,materialui,firebase,git,postman,vercel,vscode,windows,chrome&perline=9&theme=dark" />
 </p>
 
 ---
 
-<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
-</div>
 
-### 🌌 Final Words
+### 📊 GitHub Insights (Dark Hacker Mode)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPZ9FZ0pP12vAA/giphy.gif" width="100%" alt="Neon Matrix Bar"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaivikop&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<h3 align="center">✨ Crafted with caffeine, code & creativity by <a href="https://github.com/vaivikop">Vaivik Shah</a> ✨</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaivikop&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaivikop&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/vaivikop" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vaivikshah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:vaivikshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-202124?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
+
+<h3 align="center">
+✨ “Keep building. Keep exploring. Keep inspiring.” ✨
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;SaaS+and+EdTech+Builder;AI+Explorer;Turning+Ideas+into+Reality" />
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
+
+🧩 *Crafted with ⚡ energy, 💙 passion & 🖤 precision by [@vaivikop](https://github.com/vaivikop)*  
+
+</div>
