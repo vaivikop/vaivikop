@@ -1,9 +1,15 @@
-<!-- ⚡ VAIVIK SHAH | Full Stack Developer | Black Neon Animated Edition -->
+<!-- ⚡ VAIVIK SHAH | Full Stack Developer | Black Neon Terminal Edition -->
 
 <div align="center">
 
 <!-- 🧠 ASCII Terminal Boot Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Booting+System...;Initializing+Vaivik+Shah...;Loading+Full+Stack+Environment...;✅+System+Online!;VAIVIK+SHAH+//+FULL+STACK+DEV" alt="Terminal Boot Animation"/>
+
+<!-- 🖤 Blinking Cursor -->
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/_-000000?style=for-the-badge&logo=terminal&logoColor=00FFFF&label=RUNNING&color=0D1117">
+  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="40" />
+</p>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vaivik Shah</span></h1>
 
@@ -12,7 +18,19 @@
   <i>"I don’t just write code — I build possibilities that inspire, impact, and innovate."</i>
 </p>
 
+<!-- Neon Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
+
+---
+
+### 🧬 Developer Traits
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-00FFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Explorer-🧠-0D1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelancer-💼-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-Fueled-☕-0D1117?style=for-the-badge" />
+</p>
 
 ---
 
@@ -90,6 +108,15 @@ and that’s exactly where I love to work.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
 
+### 🧠 Contribution Snake 🐍
+<p align="center">
+  <img src="https://github.com/vaivikop/vaivikop/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
+
 ### 🌐 Explore More
 
 <p align="center">
@@ -112,8 +139,12 @@ and that’s exactly where I love to work.
 
 ---
 
-<div align="center">
+<!-- 💀 System Shutdown Outro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2500&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=System+Idle...;Saving+Session...;💀+VAIVIK+SHAH+LOGGED+OFF" alt="System Shutdown"/>
+</p>
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
 
 🧩 *Crafted with ⚡ energy, 💙 passion & 🖤 precision by [@vaivikop](https://github.com/vaivikop)*  
