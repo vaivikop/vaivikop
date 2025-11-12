@@ -1,3 +1,9 @@
+<!-- ⚡ VAIVIK SHAH | Full Stack Developer | Black Neon Animated Edition -->
+
+<div align="center">
+
+<!-- 🧠 ASCII Terminal Boot Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=24&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=Booting+System...;Initializing+Vaivik+Shah...;Loading+Full+Stack+Environment...;✅+System+Online!;VAIVIK+SHAH+//+FULL+STACK+DEV" alt="Terminal Boot Animation"/>
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Vaivik Shah</span></h1>
 
@@ -84,12 +90,12 @@ and that’s exactly where I love to work.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Neon Divider"/>
 
-### 🌍 Let's Connect
+### 🌐 Explore More
 
 <p align="center">
-  <a href="https://github.com/vaivikop" target="_blank"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vaivikshah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:vaivikshah@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-202124?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+  <a href="https://vaivikshah.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00FFFF">
+  </a>
 </p>
 
 ---
